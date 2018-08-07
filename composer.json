@@ -1,0 +1,11 @@
+{
+  "name": "aleclarson/child",
+  "type": "wordpress-theme",
+  "version": "1.0.0",
+  "require": {
+    "composer/installers": "^1.5.0"
+  },
+  "extra": {
+    "installer-name": "child"
+  }
+}
