@@ -1,4 +1,4 @@
-# child v1.0.1
+# child v1.0.2
 
 WordPress child theme proxy
 
